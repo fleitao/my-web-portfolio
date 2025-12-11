@@ -12,9 +12,10 @@ The goal of this repository is to:
 
 ## Projects
 
-### 1. fleitao.org
+### 1. Personal Web Portfolio
 
-A lightweight, content-focused website used as a personal profile and project hub.  
+A lightweight, content-focused website used as a profile and project hub.  
+
 Key characteristics:
 
 - Static, fast-loading pages
